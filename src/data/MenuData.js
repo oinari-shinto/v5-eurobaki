@@ -1,7 +1,7 @@
 export const menuData = [
     /* {title: "О Нас", link: "/about"}, */
     {title: "Wester", link: "/Wester"},
-    {title: "MasDaf", link: "/MasDaf"},
+    {title: "TBG", link: "/TBG"},
     {title: "Reflex", link: "/Reflex"},
     {title: "Zilmet", link: "/Zilmet"},
     {title: "Flamco", link: "/Flamco"},
