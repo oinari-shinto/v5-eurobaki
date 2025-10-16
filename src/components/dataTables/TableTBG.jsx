@@ -8,7 +8,7 @@ import ImageTab2 from '../../assets/images/cruwa-small.png'
 import ImageTab1 from '../../assets/images/cruwa-large.png'
 
 
-const TableCruwa = () => {
+const TableTBG = () => {
 
   
 
@@ -212,7 +212,7 @@ const TableCruwa = () => {
     )
 }
 
-export default TableCruwa
+export default TableTBG
 
 
 const TableSetting = styled.div`
