@@ -33,10 +33,10 @@ const TableCruwa = () => {
                       </thead>
                       <tbody>
                       <tr>
-                        <td colSpan="8" ><p>Гидроаккумулятор/Бак расширительный CRW Cruwa</p></td>
+                        <td colSpan="8" ><p>Гидроаккумулятор/Бак расширительный TBR TBG</p></td>
                       </tr>
                       <tr>
-                          <td>CRW Cruwa 200</td>
+                          <td>TBR TBG 200</td>
                           <td><b>27 100 руб.</b></td>
                           <td>550</td>
                           <td>1235</td>
@@ -44,10 +44,10 @@ const TableCruwa = () => {
                           <td>44.5</td>
                           <td>10</td>
                           {/* <td>Сменная(Италия)</td> */}
-                          <td rowSpan="3" ><img src={ImageTab1} alt="CRW Cruwa bak" width="250px" /></td>
+                          <td rowSpan="3" ><img src={ImageTab1} alt="TBR TBG bak" width="250px" /></td>
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 300</td>
+                          <td>TBR TBG 300</td>
                           <td><b>36 600 руб.</b></td>
                           <td>630</td>
                           <td>1365</td>
@@ -57,7 +57,7 @@ const TableCruwa = () => {
                          {/*  <td>Сменная(Италия)</td> */}
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 400</td>
+                          <td>TBR TBG 400</td>
                           <td><b>53 300 руб.</b></td>
                           <td>750</td>
                           <td>1560</td>
@@ -67,7 +67,7 @@ const TableCruwa = () => {
                           {/* <td>Сменная(Италия)</td> */}
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 500</td>
+                          <td>TBR TBG 500</td>
                           <td><b>62 100 руб.</b></td>
                           <td>750</td>
                           <td>1560</td>
@@ -80,7 +80,7 @@ const TableCruwa = () => {
                         <td colSpan="8" ><p></p></td>
                         </tr>
                         <tr >
-                          <td>CRW Cruwa 600</td>
+                          <td>TBR TBG 600</td>
                           <td><b>73 600 руб.</b></td>
                           <td>750</td>
                           <td>2075</td>
@@ -88,11 +88,11 @@ const TableCruwa = () => {
                           <td>150</td>
                           <td>10</td>
                           {/* <td>Сменная(Италия)</td> */}
-                          <td rowSpan="7"   ><br/><img   src={ImageTab2} width="250px" alt="CRW Cruwa 1000"/><p>Мембрана: Сменная (Италия)</p></td>
+                          <td rowSpan="7"   ><br/><img   src={ImageTab2} width="250px" alt="TBR TBG 1000"/><p>Мембрана: Сменная (Италия)</p></td>
                           
                         </tr>
                         <tr >
-                          <td>CRW Cruwa 750</td>
+                          <td>TBR TBG 750</td>
                           <td><b>73 400 руб.</b></td>
                           <td>750</td>
                           <td>2075</td>
@@ -100,11 +100,11 @@ const TableCruwa = () => {
                           <td>150</td>
                           <td>10</td>
                           {/* <td>Сменная(Италия)</td> */}
-                          <td rowSpan="7"   ><br/><img   src={ImageTab2} width="250px" alt="CRW Cruwa 1000"/><p>Мембрана: Сменная (Италия)</p></td>
+                          <td rowSpan="7"   ><br/><img   src={ImageTab2} width="250px" alt="TBR TBG 1000"/><p>Мембрана: Сменная (Италия)</p></td>
                           
                         </tr>
                         <tr >
-                          <td>CRW Cruwa 800</td>
+                          <td>TBR TBG 800</td>
                           <td><b>86 100 руб.</b></td>
                           <td>750</td>
                           <td>2075</td>
@@ -112,11 +112,11 @@ const TableCruwa = () => {
                           <td>150</td>
                           <td>10</td>
                           {/* <td>Сменная(Италия)</td> */}
-                          <td rowSpan="7"   ><br/><img   src={ImageTab2} width="250px" alt="CRW Cruwa 1000"/><p>Мембрана: Сменная (Италия)</p></td>
+                          <td rowSpan="7"   ><br/><img   src={ImageTab2} width="250px" alt="TBR TBG 1000"/><p>Мембрана: Сменная (Италия)</p></td>
                           
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 1000</td>
+                          <td>TBR TBG 1000</td>
                           <td><b>108 100 руб.</b></td>
                           <td>850</td>
                           <td>2100</td>
@@ -127,7 +127,7 @@ const TableCruwa = () => {
                           
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 1500</td>
+                          <td>TBR TBG 1500</td>
                           <td><b>207 360 руб.</b></td> 
                           <td>960</td>
                           <td>2420</td>
@@ -137,7 +137,7 @@ const TableCruwa = () => {
                           {/* <td>Сменная(Италия)</td> */}
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 2000</td>
+                          <td>TBR TBG 2000</td>
                           <td><b>309 500 руб.</b></td> 
                           <td>1100</td>
                           <td>2553</td>
@@ -147,7 +147,7 @@ const TableCruwa = () => {
                           {/* <td>Сменная(Италия)</td> */}
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 3000</td>
+                          <td>TBR TBG 3000</td>
                           <td><b>482 760 руб.</b></td> 
                           <td>1200</td>
                           <td>2800</td>
@@ -157,7 +157,7 @@ const TableCruwa = () => {
                           {/* <td>Сменная(Италия)</td> */}
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 4000</td>
+                          <td>TBR TBG 4000</td>
                           <td><b>720 960 руб.</b></td> 
                           <td>1450</td>
                           <td>3180</td>
@@ -167,7 +167,7 @@ const TableCruwa = () => {
                           {/* <td>Сменная(Италия)</td> */}
                         </tr>
                         <tr>
-                          <td>CRW Cruwa 5000</td>
+                          <td>TBR TBG 5000</td>
                           <td><b>944 920 руб.</b></td> 
                           <td>1450</td>
                           <td>3700</td>
