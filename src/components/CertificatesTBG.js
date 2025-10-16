@@ -16,7 +16,7 @@ import { Carousel } from 'react-bootstrap'
 gsap.registerPlugin(ScrollTrigger);
 gsap.defaults({ease: "none", duration: 2});
 
-const CertificatesCruwa = () => {
+const CertificatesTBG = () => {
     const data = useStaticQuery (
         graphql`
       query {
@@ -59,7 +59,7 @@ const CertificatesCruwa = () => {
                         font-size: 2rem;
                         margin-bottom: 1rem;
                         white-space: pre-line;`} />
-                        <h3>Cruwa</h3>
+                        <h3>TBG</h3>
                         <p>Мембранные баки TBG</p>
                         <p>Баки применяются для:<br />
                         • Максимально допустимое рабочее давление – 10 бар.<br /> 
@@ -110,7 +110,7 @@ const CertificatesCruwa = () => {
     )
 }
 
-export default CertificatesCruwa
+export default CertificatesTBG
 
 
 
