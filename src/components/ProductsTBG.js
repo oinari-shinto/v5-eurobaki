@@ -12,9 +12,9 @@ const ProductsCruwa = ({ heading }) => {
   const [modalActive, setModalActive] = useState(false)
 
 const data = useStaticQuery(graphql`
- query ProductsQueryCruwa {
+ query ProductsQueryTBG {
     
-    allProductsJson (filter: {mark: {eq: "Cruwa"}}) {
+    allProductsJson (filter: {mark: {eq: "TBG"}}) {
       edges {
         node {
           alt
@@ -50,7 +50,7 @@ function getProducts(data) {
                 <ProductInfo>
                   <TextWrap>
                     <ImLocation />
-                    <ProductTitle to="/Cruwa">{item.node.name}</ProductTitle>
+                    <ProductTitle to="/TBG">{item.node.name}</ProductTitle>
                   </TextWrap>
                   <Button onClick={() => setModalActive(true)} primary="true" round="true"
                   css={`
