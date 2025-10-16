@@ -14,7 +14,7 @@ import TableCruwa from "../components/dataTables/TableCruwa"
 
 
 
-const Cruwa = () => (
+const TBG = () => (
   <Layout>
     <Seo title="Cruwa" description="Расширительные баки Cruwa "/>
     <Hero HeaderMark="Продажа и изготовление расширительных баков Cruwa" ButtonName="Прайс"/>
@@ -28,4 +28,4 @@ const Cruwa = () => (
   </Layout>
 )
 
-export default Cruwa
+export default TBG
