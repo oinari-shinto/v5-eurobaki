@@ -117,7 +117,7 @@ const TableTBG = () => {
                         </tr>
                         <tr>
                           <td>TBR TBG 1000</td>
-                          <td><b>108 100 руб.</b></td>
+                          <td><b>98 100 руб.</b></td>
                           <td>850</td>
                           <td>2100</td>
                           <td>1 1/2''</td>
